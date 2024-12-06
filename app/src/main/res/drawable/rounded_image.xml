@@ -1,0 +1,7 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="@android:color/transparent" /> <!-- Fundo transparente -->
+    <corners android:radius="50dp" /> <!-- Tornar os cantos arredondados -->
+    <size
+        android:width="100dp"
+        android:height="100dp" /> <!-- Tamanho fixo -->
+</shape>
